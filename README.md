@@ -7,6 +7,11 @@ Deo naučno-istraživačkog projekta Katedre za upravljanje sistemima Fakulteta 
 Izveštaj o svim atributima sa osnovnim statistikama i distribucijama možete pogledati na [ovom linku](https://dimitrijem.github.io/donation_analysis_ts/).
 
 
+## Strategije identifikacije anomalija
+
+Predlog strategija koje se mogu koristi za identifikaciju anomalija u podacima može se pročitati u notebooku [anomaly_detection_strategies](https://github.com/DimitrijeM/donation_analysis_ts/blob/master/anomaly_detection_strategies.ipynb).
+
+
 ## Rađeno u:
 
 * Python
